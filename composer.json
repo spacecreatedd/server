@@ -1,0 +1,14 @@
+{
+    "name": "spacecreatedd/server",
+    "description": "this is a practise for a server side",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "spacecreatedd",
+            "email": "kimzhenya1313@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
