@@ -3,7 +3,7 @@
         'name' => 'spacecreatedd/server',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '5170511f5d0acda338c17fa1107494390f13786d',
+        'reference' => '1406abaa372e9d0371460f555cf074d8df5dff55',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'spacecreatedd/server' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '5170511f5d0acda338c17fa1107494390f13786d',
+            'reference' => '1406abaa372e9d0371460f555cf074d8df5dff55',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
