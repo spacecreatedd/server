@@ -1,6 +1,7 @@
 {
     "name": "spacecreatedd/server",
     "description": "this is a practise for a server side",
+    "version": "lab1",
     "type": "project",
     "license": "MIT",
     "authors": [
